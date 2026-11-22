@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "782880117297",
+    "firebase_url": "https://prova-pdm-532ff-default-rtdb.firebaseio.com",
+    "project_id": "prova-pdm-532ff",
+    "storage_bucket": "prova-pdm-532ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782880117297:android:83043bbed34a6f597abb10",
+        "android_client_info": {
+          "package_name": "com.example.gerenciador_tarefas_p2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaRep_bn60j8ebpWT8DhxV0xKFNeF5aXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
